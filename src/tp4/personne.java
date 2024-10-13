@@ -4,5 +4,10 @@ public class personne {
 	String nom;
 	String prenom;
 	String adresse;
+	
+	String toto;
 
 }
+
+
+
